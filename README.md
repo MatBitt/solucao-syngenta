@@ -12,13 +12,13 @@ $ pip3 install -r requirements.txt
 ```
 
 
-To run the (failing) test:
+To run the test:
 
 ```
 $ py.test
 ```
 
-To run the main file, go to src/:
+To run the main file go to src/:
 
 ```
 $ cd src/
