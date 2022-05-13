@@ -1,4 +1,4 @@
-A Repository containing the solution to Syngenta's selective process
+A repo containing the solution to Syngenta's selective process
 ===
 
 To install the required modules:
